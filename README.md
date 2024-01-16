@@ -2,5 +2,5 @@
 
 
 ## 🔗 Link
-https://isuruwebdev.github.io/portfolio-1/
+https://IsuruWickramasinghe.github.io/portfolio-1/
 
